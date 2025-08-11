@@ -18,15 +18,12 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Hum2a/bgr8.git
+git clone https://github.com/YakMan101/B8-Calcom-Server.git
 cd bgr8
 
 # 2️⃣ Install dependencies
 npm install
 
-# 3️⃣ Set up environment (see Environment Variables section)
-# Get .env file from Hum2a
-
-# 4️⃣ Start Cal.com server (in another terminal)
+# 3️⃣ Start Cal.com server
 node calComServer.mjs
 ```
